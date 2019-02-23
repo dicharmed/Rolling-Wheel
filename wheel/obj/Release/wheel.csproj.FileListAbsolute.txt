@@ -1,0 +1,25 @@
+C:\Users\dicha\source\repos\wheel\wheel\bin\Release\wheel.exe.config
+C:\Users\dicha\source\repos\wheel\wheel\bin\Release\wheel.exe
+C:\Users\dicha\source\repos\wheel\wheel\bin\Release\wheel.pdb
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.Form1.resources
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.Form2.resources
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.Properties.Resources.resources
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.csproj.GenerateResource.cache
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.csproj.CoreCompileInputs.cache
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.exe
+C:\Users\dicha\source\repos\wheel\wheel\obj\Release\wheel.pdb
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\bin\Release\wheel.exe.config
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\bin\Release\wheel.xml
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\bin\Release\wheel.exe
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\bin\Release\wheel.pdb
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.csprojAssemblyReference.cache
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.Form1.resources
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.Form2.resources
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.Form3.resources
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.Form4.resources
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.Properties.Resources.resources
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.csproj.GenerateResource.cache
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.csproj.CoreCompileInputs.cache
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.csproj.CopyComplete
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.exe
+C:\Users\dicha\OneDrive\Рабочий стол\3 курс\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Release\wheel.pdb
