@@ -38,29 +38,38 @@ namespace wheel
 
         private void CommandInit_Click(object sender, EventArgs e) //Кнопка "Данные"
         {
-            CommandStart.Enabled = true;
-            //DeltaFi = Convert.ToDouble(TextDeltaFi.Text);
-            DeltaFi = double.Parse(TextDeltaFi.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
-            LambdaA = double.Parse(TextLambdaA.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
+            if (TextDeltaFi.Text==""|| TextLambdaA.Text == "")
+            {
+                MessageBox.Show("Заполните все поля!", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                
+            }
+            else
+            {
+                CommandStart.Enabled = true;
+                //DeltaFi = Convert.ToDouble(TextDeltaFi.Text);
+                DeltaFi = double.Parse(TextDeltaFi.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
+                LambdaA = double.Parse(TextLambdaA.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
 
-            InitAxis();//Определяет вид систем координат д/отображения катящегося колеса(Аксис1) и траекторий точек радиуса колеса(Аксис2)
+                InitAxis();//Определяет вид систем координат д/отображения катящегося колеса(Аксис1) и траекторий точек радиуса колеса(Аксис2)
 
-            //точка A
-            Xa = (float)(-4 * Pi);
-            Ya = (float)(1 - LambdaA);
+                //точка A
+                Xa = (float)(-4 * Pi);
+                Ya = (float)(1 - LambdaA);
 
-            //Колесо
-            Xo = (float)(-4 * Pi);
-            Yo = 1;
-            Axis1.StatToDin();//
-            Axis1.Pix_type = 3;
-            Axis1.Pix_Size = 2 / XBase;
-            Axis1.PixDraw(Xo, Yo, Color.Red, 2);//
+                //Колесо
+                Xo = (float)(-4 * Pi);
+                Yo = 1;
+                Axis1.StatToDin();//
+                Axis1.Pix_type = 3;
+                Axis1.Pix_Size = 2 / XBase;
+                Axis1.PixDraw(Xo, Yo, Color.Red, 2);//
 
-            //радиус
-            Axis1.Pix_color = Color.Blue;
-            Axis1.Line(Xa, Ya, Xo, Yo, 2);//
-            Axis1.DinToPic();//     
+                //радиус
+                Axis1.Pix_color = Color.Blue;
+                Axis1.Line(Xa, Ya, Xo, Yo, 2);//
+                Axis1.DinToPic();//
+            }
+                 
         }
                                     //Определяет вид систем координат д/отображения 
         private void InitAxis()    //катящегося колеса(Аксис1) и траекторий точек радиуса колеса(Аксис2)

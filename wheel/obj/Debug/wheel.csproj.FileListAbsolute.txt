@@ -55,3 +55,17 @@ C:\Users\dicha\OneDrive\Рабочий стол\3 year\ВЫПОЛНЕННЫЕ Р
 C:\Users\dicha\OneDrive\Рабочий стол\3 year\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Debug\wheel.csproj.CopyComplete
 C:\Users\dicha\OneDrive\Рабочий стол\3 year\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Debug\wheel.exe
 C:\Users\dicha\OneDrive\Рабочий стол\3 year\ВЫПОЛНЕННЫЕ РАБОТЫ\Компьютерное моделирование\wheel\wheel\obj\Debug\wheel.pdb
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\bin\Release\wheel.exe.config
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\bin\Release\wheel.exe
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\bin\Release\wheel.pdb
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.csprojAssemblyReference.cache
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Form1.resources
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Form2.resources
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Form3.resources
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Form4.resources
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Properties.Resources.resources
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.csproj.GenerateResource.cache
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.csproj.CoreCompileInputs.cache
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.csproj.CopyComplete
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.exe
+C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.pdb
