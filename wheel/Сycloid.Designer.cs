@@ -1,6 +1,6 @@
 ﻿namespace wheel
 {
-    partial class Form2
+    partial class Сycloid
     {
         /// <summary>
         /// Required designer variable.

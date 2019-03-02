@@ -11,7 +11,7 @@ using static System.Math;
 
 namespace wheel
 {
-    public partial class Form4 : Form
+    public partial class Gipocycloid : Form
     {
         const float Pi = 3.14F;
         float R1, R;
@@ -139,7 +139,7 @@ namespace wheel
         }
 
 
-        public Form4()
+        public Gipocycloid()
         {
             InitializeComponent();
         }

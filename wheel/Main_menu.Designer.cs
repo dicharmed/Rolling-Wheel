@@ -1,6 +1,6 @@
 ﻿namespace wheel
 {
-    partial class Form1
+    partial class Main_menu
     {
         /// <summary>
         /// Обязательная переменная конструктора.

@@ -12,7 +12,7 @@ using static System.Math;
 
 namespace wheel
 {
-    public partial class Form3 : Form
+    public partial class Epicycloid : Form
     {
         const float Pi = 3.14F;
         float R1, R;
@@ -33,7 +33,7 @@ namespace wheel
             Timer1.Enabled = false;
         }
 
-        public Form3()
+        public Epicycloid()
         {
             InitializeComponent();
         }

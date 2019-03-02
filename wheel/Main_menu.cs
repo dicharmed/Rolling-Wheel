@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace wheel
 {
-    public partial class Form1 : Form
+    public partial class Main_menu : Form
     {
-        public Form1()
+        public Main_menu()
         {
             InitializeComponent();
         }
@@ -22,15 +22,15 @@ namespace wheel
             switch (ListBox1.SelectedIndex)
             {
                 case 0:
-                    Form2 frm2 = new Form2();
+                    Сycloid frm2 = new Сycloid();
                     frm2.Show();
                     break;
                 case 1:
-                    Form3 frm3 = new Form3();
+                    Epicycloid frm3 = new Epicycloid();
                     frm3.Show();
                     break;
                 case 2:
-                    Form4 frm4 = new Form4();
+                    Gipocycloid frm4 = new Gipocycloid();
                     frm4.Show();
                     break;
             }

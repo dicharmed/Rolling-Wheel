@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace wheel
 {
-    public partial class Form2 : Form
+    public partial class Сycloid : Form
     {
         const double Pi = 3.14;
         //коодинаты точки А
@@ -24,7 +24,7 @@ namespace wheel
         double Lambda, LambdaA, DeltaLambda;
 
 
-        public Form2()
+        public Сycloid()
         {
             InitializeComponent();
         }
@@ -47,6 +47,7 @@ namespace wheel
             {
                 CommandStart.Enabled = true;
                 //DeltaFi = Convert.ToDouble(TextDeltaFi.Text);
+
                 DeltaFi = double.Parse(TextDeltaFi.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
                 LambdaA = double.Parse(TextLambdaA.Text, System.Globalization.NumberStyles.AllowDecimalPoint, System.Globalization.NumberFormatInfo.InvariantInfo);
 
