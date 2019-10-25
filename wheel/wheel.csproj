@@ -71,43 +71,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Main_menu.cs">
+    <Compile Include="forms\Main_menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Main_menu.Designer.cs">
+    <Compile Include="forms\Main_menu.Designer.cs">
       <DependentUpon>Main_menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Сycloid.cs">
+    <Compile Include="forms\Сycloid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Сycloid.Designer.cs">
+    <Compile Include="forms\Сycloid.Designer.cs">
       <DependentUpon>Сycloid.cs</DependentUpon>
     </Compile>
-    <Compile Include="Epicycloid.cs">
+    <Compile Include="forms\Epicycloid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Epicycloid.Designer.cs">
+    <Compile Include="forms\Epicycloid.Designer.cs">
       <DependentUpon>Epicycloid.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gipocycloid.cs">
+    <Compile Include="forms\Gipocycloid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gipocycloid.Designer.cs">
+    <Compile Include="forms\Gipocycloid.Designer.cs">
       <DependentUpon>Gipocycloid.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Settings.cs" />
-    <EmbeddedResource Include="Main_menu.resx">
+    <EmbeddedResource Include="forms\Main_menu.resx">
       <DependentUpon>Main_menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Сycloid.resx">
+    <EmbeddedResource Include="forms\Сycloid.resx">
       <DependentUpon>Сycloid.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Epicycloid.resx">
+    <EmbeddedResource Include="forms\Epicycloid.resx">
       <DependentUpon>Epicycloid.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gipocycloid.resx">
+    <EmbeddedResource Include="forms\Gipocycloid.resx">
       <DependentUpon>Gipocycloid.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

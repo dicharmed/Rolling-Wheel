@@ -68,3 +68,16 @@ C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Main_menu.resour
 C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Сycloid.resources
 C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Epicycloid.resources
 C:\Users\dicha\source\repos\Rolling-Wheel\wheel\obj\Debug\wheel.Gipocycloid.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\bin\Release\wheel.exe.config
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\bin\Release\wheel.exe
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\bin\Release\wheel.pdb
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.Main_menu.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.Сycloid.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.Epicycloid.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.Gipocycloid.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.exe
+C:\Users\Xiaomi\Desktop\Rolling-Wheel\wheel\obj\Debug\wheel.pdb
